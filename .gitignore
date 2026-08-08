@@ -1,0 +1,20 @@
+# Dependências
+node_modules/
+
+# Vercel
+.vercel
+
+# Ambiente / segredos (NUNCA versionar)
+.env
+.env.local
+.env*.local
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de trabalho / rascunho
+*_slim.html
+*_tiny.html
+*_final.html
+favicon-source.png
