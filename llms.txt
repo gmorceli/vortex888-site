@@ -1,0 +1,25 @@
+# Vortex888
+
+> Holding brasileira de investimentos de impacto, sediada em São Carlos (SP), que cria, investe e opera empresas de tecnologia em educação, clima e ciência aplicada.
+
+A Vortex888 nasceu da experiência de mais de vinte anos em robótica educacional e tecnologia para escolas públicas brasileiras. Não é um fundo tradicional: opera as empresas do portfólio com visão de dono, priorizando impacto social mensurável junto com retorno financeiro.
+
+## Site (página única, seções por âncora)
+
+- [Quem somos](https://www.vortex888.com.br/#quem): Tese da holding — impacto real, não de vitrine; investimento com visão de dono.
+- [Fundador](https://www.vortex888.com.br/#quem): Bio de Gustavo Adolfo Morceli Rodrigues, fundador da Vortex888 e CEO da PETE, criador do Kit ROB (patente BR 202021026041-1) e do Hexa Clima.
+- [Portfólio](https://www.vortex888.com.br/#portfolio): Empresas operadas pela holding — BDN Educação & Tecnologia, Hexa Smart, CSGM Editora — e iniciativas em incubação: NeuroInsights, Ambiência, Fagulha.
+- [Filosofia](https://www.vortex888.com.br/#filosofia): Quatro pilares de decisão — Foco, Estratégia, Disciplina, Abundância.
+- [Contato](https://www.vortex888.com.br/#contato): Formulário para fundadores, gestores públicos e parceiros.
+
+## Empresas do portfólio
+
+- BDN Educação & Tecnologia: Mais de 20 anos de robótica educacional e IoT em redes públicas de ensino.
+- Hexa Smart: Sensoriamento IoT e modelos preditivos para clima, ambiente e território; linha Hexa Clima.
+- CSGM Editora: Braço editorial de livros educacionais do grupo.
+
+## Em incubação
+
+- NeuroInsights: Neurociência e IA aplicadas à atenção e ao conteúdo.
+- Ambiência: Sensoriamento e certificação ambiental para escolas.
+- Fagulha: Tecnologia educacional nacional direto ao consumidor.
